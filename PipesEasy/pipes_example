@@ -1,0 +1,6 @@
+{{money|currency:'JPY':number: '2.0-0'}}
+<!--
+  - biến money sẽ định định dạng tiền tệ là yên
+  - định dạng trước dấu . ít nhất 2 ký tự
+  - sau dấu chấm 0 ký tự
+-->
